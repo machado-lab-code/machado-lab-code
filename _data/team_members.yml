@@ -1,0 +1,17 @@
+- name: Tim Machado
+  photo: machado.jpg
+  info: Principal Investigator
+  email: Timothy.Machado@PennMedicine.upenn.edu
+  number_educ: 3
+  education1: B.S., University of California, San Diego (Cognitive Science)
+  education2: Ph.D., Columbia University (Paninski and Jessell labs)
+  education3: Postdoc Stanford University (Deisseroth lab)
+
+- name: "This could be you!"
+  photo: bio-photo.jpg
+  email: Timothy.Machado@PennMedicine.upenn.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

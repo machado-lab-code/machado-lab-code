@@ -1,0 +1,82 @@
+- title: "Multiregion neuronal activity: the forest and the trees"
+  image: trees.png
+  description: Review of new methods and opportunities for simultaneously measuring neural activity from multiple regions across the brain.
+  authors: <b>Machado, T.A.<sup>*</sup></b>, Kauvar, I.V.<sup>*</sup>, Deisseroth, K.
+  news:   Invited review. Cover article.
+  link:   Link to [PDF](http://timmachado.com/papers/Machado-Kauvar-2022.pdf), Link to [Nat Rev Neuro](https://doi.org/10.1038/s41583-022-00634-0), <sup>*</sup> denotes co-first authorship.
+  ref: "Nature Reviews Neuroscience 23: 683-704 (2022)"
+  highlight: 1
+
+- title: "Cortical Observation by Synchronous Multifocal Optical Sampling Reveals Widespread Population Encoding of Actions"
+  image: nebula.png
+  description: A new optical approach for measuring neural activity across cortex at nearly single cell resolution is used to study motor behavior.
+  authors: Kauvar, I.V.<sup>*</sup>, **Machado, T.A.<sup>*</sup>**, Yuen, E., Kochalka, J., Choi, M., Allen, W., Wetzstein, G., Deisseroth, K.
+  news: " "
+  link:   Link to [PDF](http://timmachado.com/papers/Kauvar-Machado-2020.pdf), Link to [Neuron](http://dx.doi.org/10.1016/j.neuron.2020.04.023), <sup>*</sup> denotes co-first authorship.
+  ref: "Neuron 107: 1-17 (2020)"
+  highlight: 1
+
+- title: "Cortical layer-specific critical dynamics triggering perception"
+  image: opto.png
+  description: Cellular-resolution optogenetics was used to manipulate cortical activity and control a visually-guided behavior.
+  authors: Marshel, J.H.<sup>*</sup>, Kim, Y.S.<sup>*</sup>, **Machado, T.A.<sup>*</sup>**, Quirin S.<sup>*</sup>, Benson, B., Kadmon, J., Raja, C., Chibukhchyan, A., Ramakrishnan, C., Inoue, M., Shane, J., McKnight, D., Yoshizawa, S., Kato, H., Ganguli, S., Deisseroth, K.
+  news:   Article in [New York Times](https://www.nytimes.com/2019/07/18/science/why-are-these-mice-hallucinating-scientists-are-in-their-heads.html).
+  link:   Link to [PDF](http://timmachado.com/papers/Marshel-Kim-Machado-Quirin-2019.pdf), Link to [Science](http://dx.doi.org/10.1126/science.aaw5202), <sup>*</sup> denotes co-first authorship.
+  ref: "Science 365 (6453), eaaw5202 (2019)"
+  highlight: 1
+
+- title: "Primacy of flexor locomotor pattern revealed by ancestral reversion of motor neuron identity"
+  image: cover.jpeg
+  description: We measured locomotor firing in hundreds of hindlimb-innervating motor neurons and found that spinal locomotor circuits have a flexor bias.
+  authors: <b>Machado, T.A.</b>, Pnevmatikakis, E., Paninski, L., Jessell, T.M., Miri, A.
+  news:   Cover article.
+  link:   Link to [PDF](http://timmachado.com/papers/Machado-2015.pdf), Link to [Cell](http://dx.doi.org/10.1016/j.cell.2015.06.036).
+  ref: "Cell 162: 338-350 (2015)"
+  highlight: 1
+
+- title: "CloudReg: Automatic Terabyte-Scale Cross-Modal Brain Volume Registration"
+  authors: Chandrashekhar, V., Crowley, D., Crow, A.K., Wright, M.A., Hsueh, B.Y., Gore, F., Machado, T.A., Branch, A., Rosenblum, J.S., Deisseroth, K., Vogelstein J.T.
+  ref: Nature Methods 18, 845–846 (2021).
+  highlight: 0
+
+- title: "Community-based benchmarking improves spike inference from two-photon calcium imaging data"
+  authors: Berens, P. et al.
+  ref:   PLOS Computational Biology 14 (5), e10006157 (2018).
+  highlight: 0
+
+- title: "Simultaneous denoising, deconvolution, and demixing of calcium imaging data"
+  authors: Pnevmatikakis, E.A., Soudry, D., Gao, Y., Machado, T.A., Merel, J., Pfau, D., Reardon, T., Mu, Y., Lacefield, C., Yang, W., Ahrens, M., Bruno, R., Jessell T.M., Peterka D.S., Yuste, R., Paninski, L.
+  ref: "Neuron 89 (2): 285–299 (2016)."
+  highlight: 0
+
+- title: "Robust and scalable bayesian analysis of spatial neural data"
+  authors: Rad, K. R., Machado, T.A., Jessell, T., Paninski, L. 
+  ref: "Annals of Applied Statistics 11 (2): 598-637 (2017)."
+  highlight: 0
+
+- title: "Spinal Inhibitory Interneuron Diversity Delineates Variant Motor Microcircuits"
+  authors: Bikoff, J.B., Gabitto, M.I., Rivard, A.F., Drobac, E., Machado, T.A., Miri, A., Brenner-Morton, S., Famojure, E., Diaz, C., Alvarez, F.J, Mentis, G.Z., Jessell, T.
+  ref: "Cell 165 (1): 207-219 (2016)."
+  highlight: 0
+
+- title: "Clustered factor analysis of multineuronal spike data"
+  authors: Buesing, L., Machado, T.A., Cunningham, J.P., Paninski, L.
+  ref: "Advances in Neural Information Processing Systems: 3500-3508 (2014)."
+  highlight: 0
+
+- title: "Efficient coding of spatial information in the primate retina"
+  authors: Doi, E., Gauthier, J.L., Field, G.D., Shlens, J., Sher, A., Greschner, M., Machado, T.A., Jepson, L.H., Mathieson, K., Gunning, D.E., Litke, A.M., Paninski, L., Chichilnisky, E.J., Simoncelli, E.P. 
+  ref: "Journal of Neuroscience 32 (46): 16256-16264 (2012)"
+  highlight: 0
+
+- title: "Fast non-negative deconvolution for spike train inference from population calcium imaging"
+  authors: Vogelstein, J.T., Packer, A.M., Machado, T.A., Sippy, T., Babadi, B., Yuste, R., Paninski, L.
+  ref: "Journal of Neurophysiology 104 (6): 3691-3704 (2010)"
+  highlight: 0
+
+- title: "Functional connectivity in the retina at the resolution of photoreceptors"
+  authors: Field, G.D., Gauthier, J.L., Sher, A., Greschner, M., Machado, T.A., Jepson, L.H., Shlens, J., Gunning, D.E., Mathieson, K., Dabrowski, W., Paninski, L., Litke, A.M., Chichilnisky, E.J.. 
+  ref: "Nature 467 (7316): 673- 677 (2010)"
+  highlight: 0
+
+
