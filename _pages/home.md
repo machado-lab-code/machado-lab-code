@@ -9,7 +9,7 @@ permalink: /
 <h1 class="heading-1">How do we decide to move?</h1>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
-    <!-- Menu ::::: To add, analytics, news?, SOCIAL MEDIA/twitter link, job posting, values -->
+
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
