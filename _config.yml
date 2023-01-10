@@ -11,15 +11,11 @@ email: Timothy.Machado@PennMedicine.upenn.edu
 description: > # this means to ignore newlines until "baseurl:"
   The Machado lab is a systems neuroscience laboratory in the Perelman School of Medicine at the University of Pennsylvania.
 baseurl: ""
-url: ""
+url: "https://lab.timmachado.com"
 
 include:
   - .htaccess
   - _pages
-  - _includes
-  - _layouts
-  - _plugins
-  - _data
 
 sass:
   sass_dir: _sass
