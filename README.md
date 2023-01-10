@@ -35,9 +35,11 @@ the website and push it to our [subdomain](lab.timmachado.com).
 
 ## Contribute
 
-Add new lab members by modifying `team_members.yml'.
-Add new publications by modifying `publist.yml'.
-Add new news items by modifying `news.yml'.
+Add new lab members by modifying `team_members.yml`.
+
+Add new publications by modifying `publist.yml`.
+
+Add new news items by modifying `news.yml`.
 
 Make sure to copy the format used for the existing items.
 
