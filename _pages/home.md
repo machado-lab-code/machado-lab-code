@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<h1 class="heading-1">How do we decide to move?</h1>
+<h1 class="heading-1">Where in the brain do we decide to move?</h1>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
 
@@ -42,8 +42,8 @@ permalink: /
   </a>
 </div>
 
-Complex movements arise from the concerted action of many neural circuits that combine sensory information, memories of past experiences, and internal state. In contrast, simpler reflexive actions can be driven by short neural pathways that reside entirely in the brainstem or spinal cord. In between these two extremes of behavioral complexity lie behaviors that may be driven by different sets of descending pathways in different contexts. How does changes in brain state (e.g. thirst or arousal) influence the balance between
-these different command and control pathways? And how do these coordination patterns adapt to injury or disease? The Machado lab uses a combination of multiregion neural recording techniques, tissue clearing methods, and new computational data analysis techniques to study these questions.
+Complex movements arise from the concerted action of many neural circuits distributed across the brain that combine sensory information, memories of past experiences, and internal state. In contrast, simpler reflexive actions can be driven by short neural pathways that reside entirely in the brainstem or spinal cord. In between these two extremes of behavioral complexity lie behaviors that may be driven by different neural pathways in different contexts. The Machado lab uses a combination of new multiregion neural recording techniques, tissue clearing methods, and computational data analysis techniques to study how these motor command pathways are recruited as a function of changes in brain state. The results from our work will lead to a better understanding of how neural computation produces behavior—and will inform new approaches for treating neurological conditions and for building brain machine interfaces.
+
 <br/><br/>
 
 <a href="{{ site.url }}{{ site.baseurl }}/research" role="button" class="btn btn-info btn-lg" style="float: left">Learn More</a>
