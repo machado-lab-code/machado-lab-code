@@ -9,9 +9,14 @@ It is derived from the great template provided by the
 and the fork written by
 [Eric Daoud](https://github.com/ericdaat/research-lab-website).
 
+Our favicon is from [Icons8](https://icons8.com).
+
 ## Setup
 
-If you want to build the website locally do the following:
+If you want to build the website locally, first
+[install Jekyll](https://jekyllrb.com/docs/installation/).
+
+On a Mac you can do that with the following commands:
 
 ``` bash
 brew install ruby

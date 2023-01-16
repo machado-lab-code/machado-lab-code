@@ -22,9 +22,10 @@ permalink: /team/
 <div class="col-sm-6 col-md-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
+  {{ member.bio }}
+  <!--
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -54,6 +55,7 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+  -->
 
   </ul>
 </div>
