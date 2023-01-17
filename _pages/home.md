@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<h1 class="heading-1">Where in the brain do we decide to move?</h1>
+<h1 class="heading-1">How do we decide to move?</h1>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
 
@@ -42,7 +42,7 @@ permalink: /
   </a>
 </div>
 
-Complex movements arise from the concerted action of many neural circuits distributed across the brain that combine sensory information, memories of past experiences, and internal state. In contrast, simpler reflexive actions can be driven by short neural pathways that reside entirely in the brainstem or spinal cord. In between these two extremes of behavioral complexity are actions that may be driven by different neural pathways in different contexts. The Machado lab uses a combination of new multiregion neural recording techniques, tissue clearing methods, and computational data analysis techniques to study how these motor command pathways are recruited during these kinds of behaviors as a function of changes in brain state. The results from our work will lead to a better understanding of how neural computation produces behavior—and will inform new approaches for treating neurological conditions and for building brain machine interfaces.
+Complex movements arise from the concerted action of many neural circuits distributed across the brain that combine sensory information, memories of past experiences, and internal state. In contrast, simpler reflexive actions can be driven by short neural pathways that reside entirely in the brainstem or spinal cord. In between these two extremes of behavioral complexity are actions that may be driven by different neural pathways in different contexts. The Machado lab uses a combination of new multiregion neural recording techniques, tissue clearing methods, and computational data analysis to study how motor command pathways are recruited during these kinds of behaviors. The results from our work will lead to a better understanding of how neural computation produces behavior—and will inform new approaches for treating neurological conditions and for building brain machine interfaces.
 
 <br/><br/>
 
