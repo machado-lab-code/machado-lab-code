@@ -22,7 +22,8 @@ permalink: /team/
 <div class="col-sm-6 col-md-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
+  <br>[{{member.email}}]({{ member.email }})
   <ul style="overflow: hidden">
   {{ member.bio }}
   <!--

@@ -10,7 +10,7 @@
 
 - name: "This could be you!"
   photo: bio-photo.jpg
-  email: Timothy.Machado@PennMedicine.upenn.edu
+  email:
   number_educ: 0
   education1:
   education2:
