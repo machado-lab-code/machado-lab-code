@@ -8,7 +8,9 @@ permalink: /research/
 
 # How do we decide to move?
 
-The Machado lab develops and deploys neural recording techniques to study how circuits across the brain send commands to the brainstem and spinal cord to control movement.
+### Overview
+
+Complex movements arise from the concerted action of many neural circuits distributed across the brain that combine sensory information, memories of past experiences, and internal state. In contrast, simpler reflexive actions can be driven by short neural pathways that reside entirely in the brainstem or spinal cord. In between these two extremes of behavioral complexity are actions that may be driven by different neural pathways in different contexts. The Machado lab uses a combination of new multiregion neural recording techniques, tissue clearing methods, and computational data analysis to study how motor command pathways are recruited during these kinds of behaviors. The results from our work will lead to a better understanding of how neural computation produces behavior—and will inform new approaches for treating neurological conditions and for building brain machine interfaces.
 
 ### How do motor command pathways interact to generate specific movements? 
 
