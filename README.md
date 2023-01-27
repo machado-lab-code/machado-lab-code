@@ -36,7 +36,7 @@ bundle exec jekyll serve
 ```
 
 Otherwise, committing to this repository will automatically rebuild
-the website and push it to our [subdomain](lab.timmachado.com).
+the website and push it to our [subdomain](https://lab.timmachado.com).
 
 ## Contribute
 
