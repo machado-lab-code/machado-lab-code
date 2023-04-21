@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
- **We are looking for new Graduate Students, Postdoctoral Fellows, and Research Technicians to [join the lab]({{ site.url }}{{ site.baseurl }}/join)!** 
+ **We are looking for new Graduate Students and Postdoctoral Fellows to [join the lab]({{ site.url }}{{ site.baseurl }}/join)!** 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
