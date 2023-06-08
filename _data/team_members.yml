@@ -9,8 +9,8 @@
   education3: Postdoc Stanford University (Deisseroth lab)
 
 - name: Abby Lieberman
-  photo: 
-  info: Graduate Student 
+  photo: bio-photo.jpg
+  info: Graduate Rotation Student
   email: abby.lieberman@pennmedicine.upenn.edu
   bio: I am interested in how different internal states impact actions, particularly social interactions. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I'm not in lab you can find me doing hot yoga, cooking too much food, doing crafts, and squealing over cute animals. 
   number_educ: 0
@@ -19,9 +19,9 @@
   education3:
   education4:
   
-  - name: Kerry Nix
-  photo: 
-  info: Graduate Student
+- name: Kerry Nix
+  photo: bio-photo.jpg
+  info: Graduate Rotation Student
   email:
   number_educ: 0
   education1:
@@ -29,8 +29,8 @@
   education3:
   education4:
   
-  - name: Tammi Coleman
-  photo: 
+- name: Tammi Coleman
+  photo: bio-photo.jpg
   info: Research Specialist (joint with Ben Scholl)
   email:
   number_educ: 0
@@ -39,8 +39,8 @@
   education3:
   education4:
   
-  - name: Marie Fina
-  photo: 
+- name: Marie Fina
+  photo: bio-photo.jpg
   info: Research Specialist (joint with Diego Contreras)
   email:
   number_educ: 0
