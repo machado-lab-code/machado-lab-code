@@ -3,31 +3,24 @@
   info: Assistant Professor
   email: Timothy.Machado@PennMedicine.upenn.edu
   bio: I'm interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
-  number_educ: 3
-  education1: B.S., University of California, San Diego (Cognitive Science)
-  education2: Ph.D., Columbia University (Paninski and Jessell labs)
-  education3: Postdoc Stanford University (Deisseroth lab)
+  number_educ: 0
+  education1:
 
 - name: Abby Lieberman
   photo: bio-photo.jpg
-  info: Graduate Rotation Student
+  info: Neuroscience Graduate Program Rotation Student
   email: abby.lieberman@pennmedicine.upenn.edu
   bio: I am interested in how different internal states impact actions, particularly social interactions. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I'm not in lab you can find me doing hot yoga, cooking too much food, doing crafts, and squealing over cute animals. 
   number_educ: 0
   education1:
-  education2:
-  education3:
-  education4:
   
 - name: Kerry Nix
-  photo: bio-photo.jpg
-  info: Graduate Rotation Student
-  email:
+  photo: nix.jpg
+  info: Neuroscience Graduate Program Rotation Student
+  email: kerry.nix@pennmedicine.upenn.edu
+  bio: I’m interested in understanding neural bases of cognition and communication between brain areas using imaging and computational methods. Before beginning my PhD in Neuroscience in 2022, I studied visual and language processing in epilepsy patients using TMS and TMS-EEG. Outside the lab, I like biking around Philly, drawing, and singing.
   number_educ: 0
   education1:
-  education2:
-  education3:
-  education4:
   
 - name: Tammi Coleman
   photo: bio-photo.jpg
@@ -35,9 +28,6 @@
   email:
   number_educ: 0
   education1:
-  education2:
-  education3:
-  education4:
   
 - name: Marie Fina
   photo: bio-photo.jpg
@@ -45,6 +35,3 @@
   email:
   number_educ: 0
   education1:
-  education2:
-  education3:
-  education4:
