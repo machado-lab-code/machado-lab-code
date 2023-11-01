@@ -5,6 +5,14 @@
   bio: I'm interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
   number_educ: 0
   education1:
+  
+  - name: Jeff Gauthier
+  photo: gauthier.jpg
+  info: Senior Research Investigator
+  email: Jeff.Gauthier@Pennmedicine.upenn.edu
+  bio: I'm interested in using large-scale imaging and electrophysiological recordings to understand how brainstem circuits generate precise movements. Previously I studied hippocampal representations of reward, both as a post-doc with David Tank at Princeton University and an Assistant Professor at Swarthmore College. If I'm not in lab I'm probably singing, dancing, or playing music in Philadelphia's thriving folk music scene.
+  number_educ: 0
+  education1:
 
 - name: Abby Lieberman
   photo: AGL.jpg
