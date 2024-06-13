@@ -81,9 +81,23 @@ firstp {
 	padding-right: 26px;
 }
 
+.learn-more-btn {
+    float: left;
+    width: auto; /* Allow the button to resize automatically */
+    padding: 10px 20px; /* Add padding for better appearance */
+    text-align: center;
+}
 
-/* Carusel */
+@media (max-width: 576px) {
+    .learn-more-btn {
+        float: none; /* Remove float for mobile devices */
+        width: 100%; /* Make the button take full width on small screens */
+        padding: 10px; /* Adjust padding if necessary */
+    }
+}
 
+
+/* Carousel */
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;

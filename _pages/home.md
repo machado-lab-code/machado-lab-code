@@ -35,8 +35,7 @@ permalink: /
 
 
 <br/><br/>
-
-<a href="{{ site.url }}{{ site.baseurl }}/research" role="button" class="btn btn-info btn-lg" style="float: left; width:25%">Learn More</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" role="button" class="btn btn-info btn-lg learn-more-btn">Learn More</a>
 
 <br/><br/><br/><br/>
  **We are looking for new Graduate students and Postdoctoral Fellows to [join the lab]({{ site.url }}{{ site.baseurl }}/join)!** 
