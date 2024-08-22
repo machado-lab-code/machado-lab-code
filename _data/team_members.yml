@@ -44,3 +44,11 @@
   email:
   number_educ: 0
   education1:
+
+- name: Lyndsay Hastings
+  photo: hastings.jpg
+  info: Neuroscience Graduate Student
+  email: lyndsay.hastings@pennmedicine.upenn.edu
+  bio: I'm interested in how the brain generates behavior and in how to use imaging and computational methods to understand brainstem motor circuitry. I started my PhD in Neuroscience in 2023. Before that, I studied opioid use disorder at NIDA and Parkinson's disease at Duke University. Outside of lab, I like cooking for friends and spending lots of time outside.
+  number_educ: 0
+  education1:
