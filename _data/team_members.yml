@@ -2,7 +2,7 @@
   photo: machado.jpg
   info: Assistant Professor
   email: Timothy.Machado@PennMedicine.upenn.edu
-  bio: I'm interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
+  bio: I’m interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
   number_educ: 0
   education1:
   
@@ -10,7 +10,7 @@
   photo: gauthier.jpg
   info: Senior Research Investigator
   email: Jeff.Gauthier@Pennmedicine.upenn.edu
-  bio: I'm interested in using large-scale imaging and electrophysiological recordings to understand how brainstem circuits generate precise movements. Previously I studied hippocampal representations of reward, both as a post-doc with David Tank at Princeton University and an Assistant Professor at Swarthmore College. If I'm not in lab I'm probably singing, dancing, or playing music in Philadelphia's thriving folk music scene.
+  bio: I’m interested in using large-scale imaging and electrophysiological recordings to understand how brainstem circuits generate precise movements. Previously I studied hippocampal representations of reward, both as a post-doc with David Tank at Princeton University and an Assistant Professor at Swarthmore College. If I’m not in lab I’m probably singing, dancing, or playing music in Philadelphia’s thriving folk music scene.
   number_educ: 0
   education1:
 
@@ -18,7 +18,7 @@
   photo: AGL.jpg
   info: Neuroscience Graduate Student (co-advised by Minghong Ma)
   email: abby.lieberman@pennmedicine.upenn.edu
-  bio: I am interested in using experimental and computational approaches to study how movement execution changes across internal states. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I'm not in lab you can find me doing hot yoga, cooking too much food, crafting, and squealing over cute animals. 
+  bio: I am interested in using experimental and computational approaches to study how movement execution changes across internal states. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I’m not in lab you can find me doing hot yoga, cooking too much food, crafting, and squealing over cute animals. 
   number_educ: 0
   education1:
   
@@ -29,7 +29,15 @@
   bio: I’m interested in using imaging and computational methods to understand neural bases of cognition, communication between brain areas, and variation of these across brain states. Before beginning my PhD in Neuroscience in 2022, I studied how reward influences behavior at UC Berkeley, and visual and language processing in epilepsy patients using TMS-EEG at Stanford University School of Medicine. Outside the lab, I like biking around Philly, hiking trails, and singing.
   number_educ: 0
   education1:
-  
+
+- name: Lyndsay Hastings
+  photo: hastings.jpg
+  info: Neuroscience Graduate Student
+  email: lyndsay.hastings@pennmedicine.upenn.edu
+  bio: I’m interested in how the brain generates behavior and in how to use imaging and computational methods to understand brainstem motor circuitry. I started my PhD in Neuroscience in 2023. Before that, I studied opioid use disorder at NIDA and Parkinson’s disease at Duke University. Outside of lab, I like cooking for friends and spending lots of time outside.
+  number_educ: 0
+  education1:
+
 - name: Tammi Coleman
   photo: tammi.jpg
   info: Research Specialist (joint with Kate Wofford)
@@ -44,3 +52,4 @@
   email:
   number_educ: 0
   education1:
+
