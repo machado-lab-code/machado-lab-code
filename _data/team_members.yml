@@ -38,6 +38,14 @@
   number_educ: 0
   education1:
 
+- name: Nita Rome
+  photo: rome.jpg
+  info: Neuroscience Graduate Student (co-adviced by Nicholas Betley) 
+  email: nita.rome@pennmedicine.upenn.edu
+  bio: I am a joint member of the Machado and Betley labs, and I’m interested in internal verses external drivers of motivation and how they differentially modulate overlapping behaviors. I started my PhD in 2023. Before coming to UPenn, I studied behaviors of addictions and motivation during my undergraduate at Wesleyan University, and then worked as a lab tech at the Broad Institude in Boston. In my free time I enjoy swimming,running, or knitting on the couch while listening to an audiobook. 
+  number_educ: 0
+  education1:
+
 - name: Tammi Coleman
   photo: tammi.jpg
   info: Research Specialist (joint with Kate Wofford)
