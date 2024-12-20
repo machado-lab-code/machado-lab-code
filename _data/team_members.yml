@@ -14,8 +14,8 @@
   number_educ: 0
   education1:
 
-  - name: Vincent Curtis, PhD
-  photo: vincent.jpg
+- name: Vincent Curtis, PhD
+  photo: bio.jpg
   info: Post Doctoral Researcher 
   email: Vincent.Curtis@Pennmedicine.upenn.edu
   bio: I am focused on developing devices and computational techniques to uncover latent behavioral and neural data. During my PhD at the University of North Carolina at Chapel Hill, I designed a novel device to simultaneously monitor multiple biometric indicators using IR light. Now as a postdoctoral researcher, I’m excited to continue my work at the intersection of engineering and neuroscience. Outside the lab, you’ll likely find me reading, lifting weights, or spending time with my pet rats.
