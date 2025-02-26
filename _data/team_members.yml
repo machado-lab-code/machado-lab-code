@@ -29,14 +29,6 @@
   bio: I am interested in using experimental and computational approaches to study how movement execution changes across internal states. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I’m not in lab you can find me doing hot yoga, cooking too much food, crafting, and squealing over cute animals. 
   number_educ: 0
   education1:
-  
-- name: Kerry Nix
-  photo: nix.jpg
-  info: Neuroscience Graduate Student
-  email: kerry.nix@pennmedicine.upenn.edu
-  bio: I’m interested in using imaging and computational methods to understand neural bases of cognition, communication between brain areas, and variation of these across brain states. Before beginning my PhD in Neuroscience in 2022, I studied how reward influences behavior at UC Berkeley, and visual and language processing in epilepsy patients using TMS-EEG at Stanford University School of Medicine. Outside the lab, I like biking around Philly, hiking trails, and singing.
-  number_educ: 0
-  education1:
 
 - name: Lyndsay Hastings
   photo: hastings.jpg
@@ -45,6 +37,14 @@
   bio: I’m interested in how the brain generates behavior and in how to use imaging and computational methods to understand brainstem motor circuitry. I started my PhD in Neuroscience in 2023. Before that, I studied opioid use disorder at NIDA and Parkinson’s disease at Duke University. Outside of lab, I like cooking for friends and spending lots of time outside.
   number_educ: 0
   education1:
+
+- name: Carolyn Mann
+  photo: mann.jpg
+  info: Neuroscience Graduate Student 
+  email: carolyn.mann@pennmedicine.upenn.edu
+  bio: I am interested in how sensory feedback and motor commands interact in the brainstem to adaptively shape behavior. I started my PhD in 2022 and I previously studied the role of glial cells in Alzheimer's disease. Outside of lab, I like board games, reading, and exploring Philly.
+  number_educ: 0
+  education1: 
 
 - name: Nita Rome
   photo: rome.jpg
@@ -56,7 +56,7 @@
 
 - name: Tammi Coleman
   photo: tammi.jpg
-  info: Research Specialist (joint with Kate Wofford)
+  info: Research Specialist (joint with Minghong Ma)
   email: tammi@pennmedicine.upenn.edu
   bio: I have 32 years of experience as a certified animal health technician. Specializing in anesthesia, clinical care, in vivo research experiments, and behavioral training.  During my 25 years at Penn, I have collaborated with and helped five successful laboratories focused on research in Gene Therapy, Neuroscience, Otolaryngology, and Neurosurgery. As a laboratory manager for the Machado Lab, I assist staff and students with the study of how circuits across the brain send commands to control movement during different behavioral states by using multi-region neural recording techniques. Outside of work, I enjoy hiking, walking with my two dogs, and making art.
   number_educ: 0
@@ -76,12 +76,4 @@
   bio: I’m a sophomore in the college of arts and sciences studying physics and neuroscience. I’m interested in designing 3D-printed devices in order to help record brain activity during different behaviors. Outside of lab, I ride on Penn’s equestrian team, do traditional Chinese lion dancing, and love to run!
   number_educ: 0
   education1:
-
-- name: Carolyn Mann
-  photo: mann.jpg
-  info: Neuroscience Graduate Student 
-  email: carolyn.mann@pennmedicine.upenn.edu
-  bio: I am interested in how sensory feedback and motor commands interact in the brainstem to adaptively shape behavior. I started my PhD in 2022 and I previously studied the role of glial cells in Alzheimer's disease. Outside of lab, I like board games, reading, and exploring Philly.
-  number_educ: 0
-  education1: 
     
