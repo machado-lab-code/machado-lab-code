@@ -31,7 +31,7 @@ permalink: /
   </a>
 </div>
 
-#### The Machado Lab uses multiregion neural recording techniques to study how circuits across the brain send commands to control movement during different behavioral states.
+#### The Machado Lab uses multi-regional neural recording techniques to study how circuits across the brain send commands to control movement during different behavioral states.
 
 <br/>
 
