@@ -76,3 +76,12 @@
   bio: I’m a sophomore in the college of arts and sciences studying physics and neuroscience. I’m interested in designing 3D-printed devices in order to help record brain activity during different behaviors. Outside of lab, I ride on Penn’s equestrian team, do traditional Chinese lion dancing, and love to run!
   number_educ: 0
   education1:
+
+- name: Carolyn Mann
+  photo: mann.jpg
+  info: Neuroscience Graduate Student 
+  email: carolyn.mann@pennmedicine.upenn.edu
+  bio: I am interested in how sensory feedback and motor commands interact in the brainstem to adaptively shape behavior. I started my PhD in 2022 and I previously studied the role of glial cells in Alzheimer's disease. Outside of lab, I like board games, reading, and exploring Philly.
+  number_educ: 0
+  education1: 
+    
