@@ -76,4 +76,11 @@
   bio: I’m a sophomore in the college of arts and sciences studying physics and neuroscience. I’m interested in designing 3D-printed devices in order to help record brain activity during different behaviors. Outside of lab, I ride on Penn’s equestrian team, do traditional Chinese lion dancing, and love to run!
   number_educ: 0
   education1:
-    
+
+- name: Andrew Yao
+  photo: Andrew.jpg
+  info: Undergraduate Student
+  email:
+  bio: I am a sophomore in SEAS studying bioengineering. I'm interested in neural circuits that coordinate movement and how neurodegeneration impacts their function over time. Outside of lab, I enjoy watching Philly sports, exploring national parks, and reviewing cheesesteaks. 
+  number_educ: 0
+  education1: 
