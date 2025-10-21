@@ -84,3 +84,11 @@
   bio: I am a sophomore in SEAS studying bioengineering. I'm interested in neural circuits that coordinate movement and how neurodegeneration impacts their function over time. Outside of lab, I enjoy watching Philly sports, exploring national parks, and reviewing cheesesteaks. 
   number_educ: 0
   education1: 
+
+- name: Madhav Subramanian
+  photo: subramanian.jpg
+  info: Neuroscience Graduate Student
+  email: madhav.subramanian@pennmedicine.upenn.edu
+  bio: I am interested in understanding how the sickness state impacts motor control at the level of the cortex, brainstem, and muscle. I am in the Penn MSTP program and started my PhD in 2025. Outside of lab, I enjoy golfing, playing sports, cooking, and watching every cooking show!
+  number_educ: 0
+  education1:
