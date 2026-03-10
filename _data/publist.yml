@@ -34,14 +34,19 @@
   ref: "Cell 162: 338-350 (2015)"
   highlight: 1
 
+- title: "Bite force-gape curves and passive tension costs in Macaca mulatta"
+  authors: Canington, S.L., Escabi, C., Platt, M.L., Machado, T.A., Iriarte-Diaz, J., Laird, M.F.
+  ref: "Journal of Experimental Biology, jeb.251950 (2026)."
+  highlight: 0
+
 - title: "CloudReg: Automatic Terabyte-Scale Cross-Modal Brain Volume Registration"
   authors: Chandrashekhar, V., Crowley, D., Crow, A.K., Wright, M.A., Hsueh, B.Y., Gore, F., Machado, T.A., Branch, A., Rosenblum, J.S., Deisseroth, K., Vogelstein J.T.
-  ref: Nature Methods 18, 845–846 (2021).
+  ref: "Nature Methods 18, 845–846 (2021)."
   highlight: 0
 
 - title: "Community-based benchmarking improves spike inference from two-photon calcium imaging data"
   authors: Berens, P. et al.
-  ref:   PLOS Computational Biology 14 (5), e10006157 (2018).
+  ref: "PLOS Computational Biology 14 (5), e10006157 (2018)."
   highlight: 0
 
 - title: "Simultaneous denoising, deconvolution, and demixing of calcium imaging data"
