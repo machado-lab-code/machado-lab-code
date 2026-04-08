@@ -11,7 +11,7 @@ permalink: /aboutwebsite.html
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 
 ### Getting started
-All pages are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for easy editing, and [Jekyll](https://jekyllrb.com) uses Liquid for the data-driven pages. The publicaion list, news items, and group members are stored as `.yml` data sheets (plain text) in the `_data folder`, so that one can update the website easily. The pages are in the `_pages` folder. Updating and maintaining is easy using [Github](http://www.github.com) (not worldpress-easy, but there are other advantages (see e.g. [this](https://www.taniarascia.com/make-a-static-website-with-jekyll/), or [this](http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/)). [Jekyll](https://jekyllrb.com) takes all the markdown and data files, and creates beautiful `html` files in the `_site` folder.
+All pages are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for easy editing, and [Jekyll](https://jekyllrb.com) uses Liquid for the data-driven pages. The publicaion list and group members are stored as `.yml` data sheets (plain text) in the `_data folder`, so that one can update the website easily. The pages are in the `_pages` folder. Updating and maintaining is easy using [Github](http://www.github.com) (not worldpress-easy, but there are other advantages (see e.g. [this](https://www.taniarascia.com/make-a-static-website-with-jekyll/), or [this](http://www.webdesignerdepot.com/2015/11/jekyll-against-the-rest-of-the-world/)). [Jekyll](https://jekyllrb.com) takes all the markdown and data files, and creates beautiful `html` files in the `_site` folder.
 
 If you never used [Jekyll](https://jekyllrb.com), read the [wikipedia article](https://en.wikipedia.org/wiki/Jekyll_(software)) article and check out [their website](https://jekyllrb.com). Same for [Github](http://www.github.com), which will host your first website draft. 
 
@@ -22,13 +22,11 @@ To modify the webpage, you can either do everything on on github.com (go to a fi
 ### Customization
 Now let's make this *your* website. 
 
-First, go to the `news.ylm`, `publist.ylm`, and `team.ylm` files in the `_data` folder and insert your own data into the data fields. Watch out:  [Jekyll](https://jekyllrb.com) is quite strict about extra or missing spaces etc. Adhere to the format. In the beginning, test each change: commit, push, and check the published website.
+First, go to the `publist.yml`, and `team.yml` files in the `_data` folder and insert your own data into the data fields. Watch out:  [Jekyll](https://jekyllrb.com) is quite strict about extra or missing spaces etc. Adhere to the format. In the beginning, test each change: commit, push, and check the published website.
 
 For publications, you can add a "1" in the highlight field, then it will be featured prominently. You can add important  news items (red, "news1"), and less important  news items (blue, "news2").
 
-For the news items, just keep adding them. The first 10 will be displayed on the 'home' page.
-
-For the `team.ylm` file
+For the `team.yml` file
 
 Next, change the content of all files in the `_pages` folder.  To change the title in the homepage, go to `homelay.html` in the `_layout` folder.
 

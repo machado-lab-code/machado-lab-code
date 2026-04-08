@@ -5,18 +5,10 @@
   bio: I’m interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
   number_educ: 0
   education1:
-  
-- name: Jeff Gauthier, PhD
-  photo: gauthier.jpg
-  info: Senior Research Investigator
-  email: Jeff.Gauthier@Pennmedicine.upenn.edu
-  bio: I’m interested in using large-scale imaging and electrophysiological recordings to understand how brainstem circuits generate precise movements. Previously I studied hippocampal representations of reward, both as a post-doc with David Tank at Princeton University and an Assistant Professor at Swarthmore College. If I’m not in lab I’m probably singing, dancing, or playing music in Philadelphia’s thriving folk music scene.
-  number_educ: 0
-  education1:
 
 - name: Vincent Curtis, PhD
   photo: curtis.jpg
-  info: Post Doctoral Researcher 
+  info: Postdoctoral Researcher
   email: Vincent.Curtis@Pennmedicine.upenn.edu
   bio: I am focused on developing devices and computational techniques to uncover latent factors in behavioral and neural data. During my PhD at the University of North Carolina at Chapel Hill, I designed a novel device to simultaneously monitor multiple biometric indicators using IR light. Now as a postdoctoral researcher, I’m excited to continue my work at the intersection of engineering and neuroscience. Outside the lab, you’ll likely find me reading, lifting weights, or spending time with my pet rats.
   number_educ: 0
@@ -97,7 +89,7 @@
   photo: BenHaozous.jpg
   info: Undergraduate Student
   email: Benchiye@seas.upenn.edu
-  bio: I am a Freshman in the School of Engineering, studying bioengineering. In the lab I am assisting in experiment design, focusing on improving the interfacing between biological structures, and our data collection equipment. Outside of the lab, I love to play classical piano and cello as well as investigate the philly thrift shop scene, and sew my own clothes.
+  bio: I am a freshman in the School of Engineering, studying bioengineering. In the lab I am assisting in experiment design, focusing on improving the interfacing between biological structures, and our data collection equipment. Outside of the lab, I love to play classical piano and cello as well as investigate the philly thrift shop scene, and sew my own clothes.
   number_educ: 0
   education1:
 
