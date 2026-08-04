@@ -3,107 +3,92 @@
   info: Presidential Assistant Professor and HHMI Freeman Hrabowski Scholar
   email: Timothy.Machado@PennMedicine.upenn.edu
   bio: I’m interested in understanding how descending pathways command the brainstem and spinal cord to initiate and modify movements—especially across different brain states (like hunger, thirst, and arousal). Previously, I was a postdoc working in the Deisseroth Lab at Stanford. Before that, I started a company called CTRL-labs that used ideas related to my doctoral work to build non-invasive technologies for decoding motor intention. I went to graduate school at Columbia where I studied spinal motor circuits. Outside of lab, I enjoy running, biking, and trying to be outside.
-  number_educ: 0
-  education1:
+
 
 - name: Vincent Curtis, PhD
   photo: curtis.jpg
   info: Postdoctoral Researcher
   email: Vincent.Curtis@Pennmedicine.upenn.edu
   bio: I am focused on developing devices and computational techniques to uncover latent factors in behavioral and neural data. During my PhD at the University of North Carolina at Chapel Hill, I designed a novel device to simultaneously monitor multiple biometric indicators using IR light. Now as a postdoctoral researcher, I’m excited to continue my work at the intersection of engineering and neuroscience. Outside the lab, you’ll likely find me reading, lifting weights, or spending time with my pet rats.
-  number_educ: 0
-  education1:
+
 
 - name: Megha Kori, PhD
   photo: kori.jpg
   info: Postdoctoral Researcher
   email: megha.kori@pennmedicine.upenn.edu
   bio: I'm interested in examining how population dynamics in brainstem circuitry may drive motor control across social states. During my PhD at New York University, I studied sensorimotor integration in striatal subpopulations using in vivo whole cell recordings in awake and behaving animals. Outside of lab, you'll find me reading, hiking, or working on a puzzle.
-  number_educ: 0
-  education1: 
+
   
 - name: Abby Lieberman
   photo: AGL.jpg
   info: Neuroscience Graduate Student (co-advised by Minghong Ma)
   email: abby.lieberman@pennmedicine.upenn.edu
   bio: I am interested in using experimental and computational approaches to study how movement execution changes across internal states. I started my PhD in neuroscience in 2022. Previously, I studied action selection at University of Maryland Baltimore and cognitive flexibility at NIAAA. When I’m not in lab you can find me doing hot yoga, cooking too much food, crafting, and squealing over cute animals. 
-  number_educ: 0
-  education1:
+
 
 - name: Lyndsay Hastings
   photo: hastings.jpg
   info: Neuroscience Graduate Student
   email: lyndsay.hastings@pennmedicine.upenn.edu
   bio: I’m interested in how the brain generates behavior and in how to use imaging and computational methods to understand brainstem motor circuitry. I started my PhD in Neuroscience in 2023. Before that, I studied opioid use disorder at NIDA and Parkinson’s disease at Duke University. Outside of lab, I like cooking for friends and spending lots of time outside.
-  number_educ: 0
-  education1:
+
 
 - name: Carolyn Mann
   photo: mann.jpg
   info: Neuroscience Graduate Student 
   email: carolyn.mann@pennmedicine.upenn.edu
   bio: I am interested in how sensory feedback and motor commands interact in the brainstem to adaptively shape behavior. I started my PhD in 2022 and I previously studied the role of glial cells in Alzheimer's disease. Outside of lab, I like board games, reading, and exploring Philly.
-  number_educ: 0
-  education1: 
+
 
 - name: Nita Rome
   photo: rome.jpg
   info: Neuroscience Graduate Student (co-advised by Nicholas Betley) 
   email: nita.rome@pennmedicine.upenn.edu
   bio: I am a joint member of the Machado and Betley labs, and I’m interested in internal verses external drivers of motivation and how they differentially modulate overlapping behaviors. I started my PhD in 2023. Before coming to UPenn, I studied behaviors of addiction and motivation during my undergraduate at Wesleyan University, and then I worked as a lab tech at the Broad Institute/MIT in Boston. In my free time I enjoy swimming, running, or knitting on the couch while listening to an audiobook. 
-  number_educ: 0
-  education1:
+
 
 - name: Madhav Subramanian
   photo: subramanian.jpg
   info: Neuroscience Graduate Student
   email: madhav.subramanian@pennmedicine.upenn.edu
   bio: I am interested in understanding how the sickness state impacts motor control at the level of the cortex, brainstem, and muscle. I am in the Penn MSTP program and started my PhD in 2025. Outside of lab, I enjoy golfing, playing sports, cooking, and watching every cooking show!
-  number_educ: 0
-  education1:
+
 
 - name: Tammi Coleman
   photo: tammi.jpg
   info: Research Specialist (joint with Minghong Ma)
   email: tammi@pennmedicine.upenn.edu
   bio: I have 32 years of experience as a certified animal health technician. Specializing in anesthesia, clinical care, in vivo research experiments, and behavioral training.  During my 25 years at Penn, I have collaborated with and helped five successful laboratories focused on research in Gene Therapy, Neuroscience, Otolaryngology, and Neurosurgery. As a laboratory manager for the Machado Lab, I assist staff and students with the study of how circuits across the brain send commands to control movement during different behavioral states by using multi-region neural recording techniques. Outside of work, I enjoy hiking, walking with my two dogs, and making art.
-  number_educ: 0
-  education1:
+
   
 - name: Marie Fina
   photo: missing.jpg
   info: Research Specialist (joint with Diego Contreras)
-  email:
-  number_educ: 0
-  education1:
+
 
 - name: Stella Lee
   photo: lee.jpg
   info: Undergraduate Student
   email:
   bio: I’m a junior in the college of arts and sciences studying physics and neuroscience. I’m interested in designing 3D-printed devices in order to help record brain activity during different behaviors. Outside of lab, I ride on Penn’s equestrian team, do traditional Chinese lion dancing, and love to run!
-  number_educ: 0
-  education1:
+
 
 - name: Andrew Yao
   photo: yao.jpg
   info: Undergraduate Student
   email:
   bio: I am a sophomore in SEAS studying bioengineering. I'm interested in neural circuits that coordinate movement and how neurodegeneration impacts their function over time. Outside of lab, I enjoy watching Philly sports, exploring national parks, and reviewing cheesesteaks. 
-  number_educ: 0
-  education1: 
+
 
 - name: Ben Haozous
   photo: BenHaozous.jpg
   info: Undergraduate Student
   email: Benchiye@seas.upenn.edu
   bio: I am a freshman in the School of Engineering, studying bioengineering. In the lab I am assisting in experiment design, focusing on improving the interfacing between biological structures, and our data collection equipment. Outside of the lab, I love to play classical piano and cello as well as investigate the philly thrift shop scene, and sew my own clothes.
-  number_educ: 0
-  education1:
+
 
 - name: Jennie Kang
   photo: kang.jpg
   info: Dental Student
   email: kang127@upenn.edu
   bio: I’m a D1 at Penn Dental Medicine, and I'm interested in the neural mechanisms underlying dental behaviors such as mastication and bruxism. Previously, I studied Biomedical Engineering at the University of Virginia. Outside of lab, I enjoy reading books, watching movies, and exploring new dance styles!
-  
